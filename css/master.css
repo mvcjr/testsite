@@ -1,0 +1,39 @@
+body {
+  /* width: 300px; */
+  margin: 20 auto;
+  font-size: 1rem;
+  font-family: sans-serif;
+}
+
+p {
+  line-height: 0.8;
+}
+
+a {
+  /* outline: none; */
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+a:link {
+  color: #C000C0;
+}
+
+a:visited {
+  color: #C000C0;
+}
+
+a:focus {
+  border-bottom: 1px solid;
+  background: #8020F0;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+  background: #D088FF;
+}
+
+a:active {
+  background: #F01110;
+  color: #D088FF;
+}
